@@ -40,8 +40,8 @@ No third-party libraries are required — just built-in modules like `datetime` 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/age-converter.git
-cd age-converter
+git clone https://github.com/ShadowSubro/Age-Converter-to-days-months-years.git
+cd Age-Converter-to-days-months-years
 ```
 
 2. Run the script:
